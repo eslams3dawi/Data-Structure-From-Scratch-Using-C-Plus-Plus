@@ -26,10 +26,6 @@ The goal is to understand their inner workings, optimize performance, and reinfo
 Follow these steps to get started with the project:  
 
 1️⃣ **Clone the repository**  
-## 🚀 Getting Started  
-Follow these steps to get started with the project:  
-
-1️⃣ **Clone the repository**  
 ```sh
 git clone https://github.com/eslams3dawi/Data-Structure-From-Scratch-Using-C-Plus-Plus.git
 ```
@@ -37,11 +33,11 @@ git clone https://github.com/eslams3dawi/Data-Structure-From-Scratch-Using-C-Plu
 
 3️⃣ Run and test each structure individually
 
-##📚 Usage
+## 📚 Usage
 Each data structure has its own class file with methods demonstrating core operations.
 You can modify, extend, and optimize them as needed.
 
-##🤝 Contributions
+## 🤝 Contributions
 Feel free to contribute, improve, or suggest new structures!
 
 
