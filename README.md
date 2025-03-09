@@ -26,19 +26,9 @@ The goal is to understand their inner workings, optimize performance, and reinfo
 Follow these steps to get started with the project:  
 
 1️⃣ **Clone the repository**  
-```md
 ```sh
 git clone https://github.com/eslams3dawi/Data-Structure-From-Scratch-Using-C-Plus-Plus.git
-
 2️⃣ Open the project in Visual Studio / VS Code
 
 3️⃣ Run and test each structure individually
-
-##📚 Usage
-Each data structure has its own class file with methods demonstrating core operations.
-You can modify, extend, and optimize them as needed.
-
-##🤝 Contributions
-Feel free to contribute, improve, or suggest new structures!
-
 
