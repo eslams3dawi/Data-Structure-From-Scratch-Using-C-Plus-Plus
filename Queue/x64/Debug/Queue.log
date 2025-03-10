@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+C:\Users\dell\Desktop\College second year\Data structure\Projects\Queue\Queue.cpp(56,1): warning C4715: 'MyQueue::GetFront': not all control paths return a value
+C:\Users\dell\Desktop\College second year\Data structure\Projects\Queue\Queue.cpp(63,1): warning C4715: 'MyQueue::GetRear': not all control paths return a value
+C:\Users\dell\Desktop\College second year\Data structure\Projects\Queue\Queue.cpp(96,1): warning C4715: 'MyQueue::Search': not all control paths return a value
+  Queue.vcxproj -> C:\Users\dell\Desktop\College second year\Data structure\Projects\DSA\x64\Debug\Queue.exe
