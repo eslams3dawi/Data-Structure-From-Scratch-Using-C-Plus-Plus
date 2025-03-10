@@ -1,0 +1,4 @@
+﻿  DSA.cpp
+C:\Users\dell\Desktop\College second year\Data structure\Projects\DSA\DSA.cpp(158,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dell\Desktop\College second year\Data structure\Projects\DSA\DSA.cpp(145,1): warning C4715: 'ArrayList::GetElement': not all control paths return a value
+  DSA.vcxproj -> C:\Users\dell\Desktop\College second year\Data structure\Projects\DSA\x64\Debug\ArrayList.exe
