@@ -1,0 +1,5 @@
+﻿  BST.cpp
+C:\Users\dell\Desktop\College second year\Data structure\Projects\BST\BST.cpp(144,1): warning C4715: 'BST::FindMax': not all control paths return a value
+C:\Users\dell\Desktop\College second year\Data structure\Projects\BST\BST.cpp(135,1): warning C4715: 'BST::FindMin': not all control paths return a value
+C:\Users\dell\Desktop\College second year\Data structure\Projects\BST\BST.cpp(119,1): warning C4715: 'BST::Search': not all control paths return a value
+  BST.vcxproj -> C:\Users\dell\Desktop\College second year\Data structure\Projects\DSA\x64\Debug\BST.exe
