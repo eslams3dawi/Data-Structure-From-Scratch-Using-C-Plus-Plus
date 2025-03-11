@@ -27,8 +27,8 @@ public:
 	void Push(T Element)
 	{
 		Node* NewNode = new Node;
-								 // 2
-		NewNode->Data = Element; // 1 
+
+		NewNode->Data = Element;
 		if (IsEmpty())
 			NewNode->Next = NULL;
 		else
@@ -103,14 +103,14 @@ int main()
 	Stack<int> StackOne;
 	StackOne.Push(100);
 	StackOne.Push(150);
-	//cout << StackOne.Peek() << endl;
-	//StackOne.Pop();
-	//int StackTopValue = 0;
-	//cout << StackOne.Pop(StackTopValue) << endl;
-	//cout << StackTopValue;
-	//cout << StackOne.Peek() << endl;
+	cout << StackOne.Peek() << endl;
+	StackOne.Pop();
+	int StackTopValue = 0;
+	cout << StackOne.Pop(StackTopValue) << endl;
+	cout << StackTopValue;
+	cout << StackOne.Peek() << endl;
 
 	cout << StackOne.Count() << endl;
 
-	//StackOne.Display();
+	StackOne.Display();
 }

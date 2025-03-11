@@ -27,7 +27,7 @@ public:
 		{
 			Front = Rear = NewNode;
 		}
-		else// 10 20
+		else
 		{
 			Rear->Next = NewNode;
 			Rear = NewNode;

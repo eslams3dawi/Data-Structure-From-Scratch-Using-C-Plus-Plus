@@ -80,14 +80,14 @@ public:
 int main()
 {   
 	Stack<int> StackOne;
-	//StackOne.Push(5);
-	//StackOne.Push(10);
-	//StackOne.Push(15);
-	//StackOne.Pop();
-	//StackOne.Push(20);
+	StackOne.Push(5);
+	StackOne.Push(10);
+	StackOne.Push(15);
+	StackOne.Pop();
+	StackOne.Push(20);
 
-	//int StackTopI = 0;
-	//cout << StackOne.GetTop(StackTop) << endl;
+	int StackTopI = 0;
+	cout << StackOne.GetTop(StackTop) << endl;
 	StackOne.Display();
 
 	cout << "------------------" << endl;
@@ -95,9 +95,10 @@ int main()
 	Stack<char> StackTwo;
 	StackTwo.Push('A');
 	StackTwo.Push('B');
+	StackTwo.Push('B');
 	StackTwo.Push('C');
 
-	//char StackTopC = 0;
-	//cout << StackOne.GetTop(StackTop) << endl;
+	char StackTopC = 0;
+	cout << StackOne.GetTop(StackTop) << endl;
 	StackTwo.Display();
 }

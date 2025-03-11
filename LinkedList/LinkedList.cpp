@@ -31,7 +31,7 @@ public:
 
 		if (IsEmpty())
 		{
-			Head = Tail = NewNode; //
+			Head = Tail = NewNode;
 			NewNode->Next = NULL;
 		}
 		else
@@ -54,8 +54,7 @@ public:
 		}
 		else
 		{
-			Tail->Next = NewNode; // 2 5 6 8
-			//Tail = NewNode;
+			Tail->Next = NewNode; 
 			NewNode->Next = NULL;
 		}
 		Length++;
@@ -81,7 +80,7 @@ public:
 				Node* Current = Head;
 				for (int Index = 0; Index < Position; Index++)
 				{
-					Current = Current->Next; // reach the node of 22
+					Current = Current->Next; 
 				}
 				NewNode->Next = Current->Next;
 				// target position // current(2)→Next is (3) , and 3 is the target position

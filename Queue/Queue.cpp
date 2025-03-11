@@ -131,22 +131,6 @@ void Menu()
 
 int main()
 {
-    /** \brief
-    MyQueue Queue(5);
-    Queue.Enqueue(10);
-    Queue.Enqueue(20);
-    Queue.Enqueue(30);
-    Queue.Enqueue(40);
-   // Queue.Dequeue();
-   //Queue.Clear();
-    cout << Queue.Search(10) << endl;
-    cout << Queue.Search(50) << endl;
-    cout << Queue.GetFront() << endl;
-    cout << Queue.GetRear() << endl;
-
-    Queue.Traverse();
-     */
-
     cout << "How many elements of your queue : ";
     int InputSize;
     cin >> InputSize;
@@ -203,6 +187,21 @@ int main()
 
 
 
+/** \brief
+MyQueue Queue(5);
+Queue.Enqueue(10);
+Queue.Enqueue(20);
+Queue.Enqueue(30);
+Queue.Enqueue(40);
+// Queue.Dequeue();
+//Queue.Clear();
+ cout << Queue.Search(10) << endl;
+ cout << Queue.Search(50) << endl;
+ cout << Queue.GetFront() << endl;
+ cout << Queue.GetRear() << endl;
+
+ Queue.Traverse();
+  */
 
 
 
