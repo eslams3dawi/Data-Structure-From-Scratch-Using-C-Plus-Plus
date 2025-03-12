@@ -18,7 +18,7 @@ The goal is to understand their inner workings, optimize performance, and reinfo
 ✅ **Commented code for easy understanding**  
 ✅ **Suitable for learning, practicing, and contributing**  
 
-📌 _This project can be extended and improved in the future._
+📌 _This implementation can be extended and improved in the future._
 
 ---
 
